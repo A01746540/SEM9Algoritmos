@@ -12,8 +12,8 @@ Mi grafo lo hice basado en uno de los vistos en clase
 
 ### La salida del programa es la siguiente
 
-!
+![alt Salida en terminal](https://raw.githubusercontent.com/A01746540/SEM9Algoritmos/main/Tareas/Clase%2019_Tarea_GrafoDFS/Salida.png)
 
 ### Y se genera un archivo de HTML como el siguiente
 
-!
+![alt Salida de html](https://raw.githubusercontent.com/A01746540/SEM9Algoritmos/main/Tareas/Clase%2019_Tarea_GrafoDFS/Salida_grafico.png)
